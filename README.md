@@ -7876,4 +7876,14 @@ SISWA
       Tutorial yang diikuti :  [https://www.youtube.com/watch?v=LkR-9Z1sle8&t=3487s]
 
 <br><br>
+11.  [https://davistore.herokuapp.com/index.php]  
+     **Davi**  
+      Halo, Nama saya Alfandavi
 
+      Ini adalah web store buku untuk tugas kuliah saya, bisa login dengan username alfandavi dan password 123, silahkan dicoba, terimakasih
+
+      Alat-alat :
+      ES6 basic, php
+
+
+<br><br>
